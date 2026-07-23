@@ -1,16 +1,4 @@
-// TODO 1:
-// Create a React element using React.createElement()
-// Tag name: h1
-// Text: Welcome to React
-
-const element = _______________________________;
-
-// TODO 2:
-// Create the React root
-
-const root = _______________________________;
-
-// TODO 3:
-// Render the element
-
-_______________________________;
+const DOMRoot = React.createElement("h1,null,"Welcome to react");
+  const rootElement = documet.getElementBy("Root");
+const root = ReactDOM.creatRoot(root element);
+root.render(root);
